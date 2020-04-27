@@ -10,6 +10,7 @@ public class Q1 {
 
         System.out.println(bool[0] + " " + bool[1]);
     }
+    // test
 
 }
 
